@@ -1,1 +1,1 @@
-# Following along with the chpaters and projects found in Real World Python Written by Lee Vaughan
+# Following along with the chapters and projects in Real World Python Written by Lee Vaughan
